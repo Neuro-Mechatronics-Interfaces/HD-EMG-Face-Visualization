@@ -29,7 +29,8 @@ pip install pyvista scipy numpy
 
 ### Required files
 
-- **3D muscle model**: "Head Study: Muscles" from Fab.com  
+- **3D muscle model**: "Head Study: Muscles" from Fab.com
+- Please reach out to obtain the OBJ files.
   Place OBJ files in a folder and update the `folder` path in the script:
   - `SubTool-0-2979770.obj` — muscles
   - `SubTool-1-5430089.obj` — skull
